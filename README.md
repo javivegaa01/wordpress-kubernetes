@@ -1,9 +1,11 @@
 # wordpress-kubernetes
 
-Pasos para desplegar la aplicicación:
+This repository content files yaml to deploy a Mongodb's cluster in Kubernetes  
 
-1. Clonar el repositorio  
+Steps to deploy the app:  
 
-2. Ejecutar en dentro de la carpeta clonada: **kubectl apply -f .**  
+1. Clone the repository  
 
-3. Acceder a www.miwordpress.org
+2. Exec inside cloned directory: kubectl apply -f .  
+
+3. Access to www.miwordpress.org
